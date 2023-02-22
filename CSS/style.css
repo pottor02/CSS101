@@ -1,0 +1,38 @@
+
+li {
+    font-style: italic;
+    color: white;
+    }
+    
+h1 {
+    color:lawngreen;
+    }
+        
+
+div,
+p,
+span {
+    font-size: 15pt;
+    color: white;
+    }
+    
+    
+span {
+    background-color:blue;
+    font-weight: bold;
+    font-style: oblique;
+    }
+
+body {
+    background-color: black;
+    }
+
+a:hover {
+    color:crimson;
+    font-size: larger;
+    }
+
+a {
+    color: yellow;
+    font-size: larger;
+    }
