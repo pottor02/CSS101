@@ -24,7 +24,7 @@ span {
     }
 
 body {
-    background-color: black;
+    background: linear-gradient(135deg, rgba(2,0,36,1) 0%, rgba(39,40,3,1) 71%, rgba(138,140,7,1) 100%);
     }
 
 a:hover {
